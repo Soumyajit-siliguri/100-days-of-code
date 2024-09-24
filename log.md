@@ -1,30 +1,93 @@
-# 100 Days Of Code - Log
+# 100 Days of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day X: [Date]
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Learning Resources
+- **GeekForGeeks**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
+  
+- **The Odin Project**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- **DevProject**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Link to work:** [Calculator App](http://www.example.com)
+- **Roadmap.sh**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- **Exercism**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+- **HackerRank**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- **Codewars**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- **Codechef**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
+- **LeetCode**: 
+  - What I did: [Description]
 
-### Day 1: June 27, Monday
+- **DailyDev**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+- **Simplilearn**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+- **UdemyBusiness**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+- **Github**: 
+  - What I did: [Description]
+
+- **AWS**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
+
+- **CodeCrafter**: 
+  - What I did: [Description]
+
+- **Chingu**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
+
+- **freeCodeCamp**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
+
+- **SCRIMBA**: 
+  - What I did: [Description]
+  - What I learned: [Description of what you learned]
+
+---
+
+### Project Update
+- **Current Project**: [Project Name]
+- **Did I work on it today?**: [Yes/No]
+- **Progress made**: [Description of progress]
+
+---
+
+### What I Learned Today
+- [Description of what you learned]
+
+---
+
+### Milestones Achieved
+- [List of milestones achieved today]
+
+---
+
