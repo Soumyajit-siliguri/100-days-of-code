@@ -91,3 +91,31 @@
 
 ---
 
+## Day 0: [30 Sep 2024 - Mon]
+
+### Learning Resources
+- **GeekForGeeks**: 
+  - What I did: Problem Of The Day
+  - What I learned: Merge two BST 's
+  
+- **The Odin Project**: 
+  - What I did: Foundation course 
+  - What I learned: completed introduction part
+
+- **Exercism**: 
+  - What I did: code 10
+  - What I learned: If-Else Statements and Numbers
+
+- **Codechef**: 
+  - What I did: Learn Java
+  - What I learned: Introducing
+
+- **LeetCode**: 
+  - What I did: daily, leet75,sql50
+
+---
+
+### What I Learned Today
+- intoroductories of java
+
+---
